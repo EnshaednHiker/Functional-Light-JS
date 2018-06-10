@@ -1,0 +1,21 @@
+# Table of contents
+
+* [Functional-Light JavaScript](README.md)
+* [Functional-Light JavaScript](manuscript/README.md)
+  * [foreword](manuscript/foreword.md)
+  * [preface](manuscript/preface.md)
+  * [chapter 1](manuscript/ch1.md)
+  * [chapter 2](manuscript/ch2.md)
+  * [chapter 3](manuscript/ch3.md)
+  * [chapter 4](manuscript/ch4.md)
+  * [chapter 5](manuscript/ch5.md)
+  * [chapter 6](manuscript/ch6.md)
+  * [chapter 7](manuscript/ch7.md)
+  * [chapter 8](manuscript/ch8.md)
+  * [chapter 9](manuscript/ch9.md)
+  * [chapter 10](manuscript/ch10.md)
+  * [chapter 11](manuscript/ch11.md)
+  * [appendix A](manuscript/apa.md)
+  * [appendix B](manuscript/apb.md)
+  * [appendix C](manuscript/apc.md)
+
